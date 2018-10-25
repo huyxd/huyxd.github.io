@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1540480999712">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1540481691048">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="359696331" ref="post19:post6:post20:post7:post16:post21:post8:post9:posts:post10:post1:post11:post22:post12:post13:post23:post15:post3:post2:post17:post4:post14:post24:post18:post5"/>
@@ -10,7 +10,7 @@
     <file name="post21.css" crc="439478200" ref="post21"/>
     <file name="post8.css" crc="439478200" ref="post8"/>
     <file name="post9.css" crc="439478200" ref="post9"/>
-    <file name="index.css" crc="467355869" ref="index"/>
+    <file name="index.css" crc="4067256559" ref="index"/>
     <file name="posts.css" crc="3783578856" ref="posts"/>
     <file name="post10.css" crc="439478200" ref="post10"/>
     <file name="post1.css" crc="4216463491" ref="post1"/>
@@ -86,7 +86,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4104644491" seo="true" mt="1540425518096" redirect="true"/>
+  <file name="index.html" crc="4277839646" seo="true" mt="1540481668326" redirect="true"/>
   <file name="posts.html" crc="4211163844" seo="true" mt="1540480491920" redirect="true"/>
   <file name="post1.html" crc="4196866607" seo="true" mt="1540480491920" redirect="true"/>
   <file name="post2.html" crc="4187980973" seo="true" mt="1540480958879" redirect="true"/>
