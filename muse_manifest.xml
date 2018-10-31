@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1540997794813">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1540998052306">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="85058271" ref="post4:post16:post6:post14:post21:post13:post23:post5:post24:post19:post2:post22:post15:post7:post12:post17:post9:posts:post1:post11:post18:post3:post10:post20:post8"/>
@@ -101,7 +101,7 @@
       <caption webpage="post3" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="503501722" seo="true" mt="1540560743688" redirect="true"/>
+  <file name="index.html" crc="173558519" seo="true" mt="1540998034957" redirect="true"/>
   <file name="posts.html" crc="4280811088" seo="true" mt="1540560676961" redirect="true"/>
   <file name="post1.html" crc="4169209350" seo="true" mt="1540560676961" redirect="true"/>
   <file name="post2.html" crc="347295639" seo="true" mt="1540560676961" redirect="true"/>
