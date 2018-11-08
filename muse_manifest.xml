@@ -1,33 +1,33 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1541513689986">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1541694697640">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3821824229" ref="post4:post3:post24:post13:post2:post23:post12:post1:post22:post11:posts:post21:post20:post10:post19:post9:post18:post8:post17:post7:post16:post6:post15:post5:post14"/>
-    <file name="post4.css" crc="71211033" ref="post4"/>
-    <file name="post3.css" crc="64641659" ref="post3"/>
-    <file name="post24.css" crc="518298646" ref="post24"/>
-    <file name="post13.css" crc="518298646" ref="post13"/>
-    <file name="post2.css" crc="243542725" ref="post2"/>
-    <file name="post23.css" crc="518298646" ref="post23"/>
-    <file name="post12.css" crc="518298646" ref="post12"/>
-    <file name="post1.css" crc="425725213" ref="post1"/>
-    <file name="post22.css" crc="518298646" ref="post22"/>
-    <file name="post11.css" crc="518298646" ref="post11"/>
-    <file name="posts.css" crc="169298026" ref="posts"/>
-    <file name="post21.css" crc="518298646" ref="post21"/>
-    <file name="post20.css" crc="518298646" ref="post20"/>
-    <file name="post10.css" crc="518298646" ref="post10"/>
+    <file name="master_a-master.css" crc="212334560" ref="post19:post13:post18:post12:post17:post11:post6:post1:post5:posts:post24:post16:post10:post4:post23:post15:post3:post9:post22:post21:post14:post2:post20:post8:post7"/>
     <file name="post19.css" crc="518298646" ref="post19"/>
-    <file name="post9.css" crc="518298646" ref="post9"/>
+    <file name="post13.css" crc="518298646" ref="post13"/>
     <file name="post18.css" crc="518298646" ref="post18"/>
-    <file name="post8.css" crc="518298646" ref="post8"/>
-    <file name="index.css" crc="244337107" ref="index"/>
+    <file name="post12.css" crc="518298646" ref="post12"/>
     <file name="post17.css" crc="518298646" ref="post17"/>
-    <file name="post7.css" crc="518298646" ref="post7"/>
-    <file name="post16.css" crc="518298646" ref="post16"/>
-    <file name="post6.css" crc="518298646" ref="post6"/>
-    <file name="post15.css" crc="518298646" ref="post15"/>
+    <file name="post11.css" crc="518298646" ref="post11"/>
+    <file name="post6.css" crc="3814073302" ref="post6"/>
+    <file name="post1.css" crc="425725213" ref="post1"/>
     <file name="post5.css" crc="3822548928" ref="post5"/>
+    <file name="posts.css" crc="3824841395" ref="posts"/>
+    <file name="index.css" crc="3852961764" ref="index"/>
+    <file name="post24.css" crc="518298646" ref="post24"/>
+    <file name="post16.css" crc="518298646" ref="post16"/>
+    <file name="post10.css" crc="518298646" ref="post10"/>
+    <file name="post4.css" crc="3873147775" ref="post4"/>
+    <file name="post23.css" crc="518298646" ref="post23"/>
+    <file name="post15.css" crc="518298646" ref="post15"/>
+    <file name="post3.css" crc="480954675" ref="post3"/>
+    <file name="post9.css" crc="518298646" ref="post9"/>
+    <file name="post22.css" crc="518298646" ref="post22"/>
+    <file name="post21.css" crc="518298646" ref="post21"/>
     <file name="post14.css" crc="518298646" ref="post14"/>
+    <file name="post2.css" crc="69304522" ref="post2"/>
+    <file name="post20.css" crc="518298646" ref="post20"/>
+    <file name="post8.css" crc="518298646" ref="post8"/>
+    <file name="post7.css" crc="4247762556" ref="post7"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
@@ -47,33 +47,33 @@
   <folder name="images">
     <file name="dot-u665-fr.png" crc="61275030" ref="index"/>
     <file name="neil_degrasse_tyson_in_space-590x332.jpg" crc="142436181" seo="true" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24">
-      <caption webpage="post21" alt=""/>
-      <caption webpage="post19" alt=""/>
-      <caption webpage="post1" alt=""/>
-      <caption webpage="post10" alt=""/>
-      <caption webpage="post2" alt=""/>
-      <caption webpage="posts" alt=""/>
-      <caption webpage="posts" alt=""/>
-      <caption webpage="post18" alt=""/>
-      <caption webpage="post23" alt=""/>
-      <caption webpage="post4" alt=""/>
-      <caption webpage="post7" alt=""/>
       <caption webpage="post17" alt=""/>
-      <caption webpage="post9" alt=""/>
-      <caption webpage="post6" alt=""/>
-      <caption webpage="post16" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="post13" alt=""/>
-      <caption webpage="post5" alt=""/>
       <caption webpage="post3" alt=""/>
-      <caption webpage="post22" alt=""/>
-      <caption webpage="post24" alt=""/>
-      <caption webpage="post20" alt=""/>
-      <caption webpage="post8" alt=""/>
-      <caption webpage="post12" alt=""/>
-      <caption webpage="post11" alt=""/>
-      <caption webpage="post15" alt=""/>
       <caption webpage="post14" alt=""/>
+      <caption webpage="posts" alt=""/>
+      <caption webpage="posts" alt=""/>
+      <caption webpage="post9" alt=""/>
+      <caption webpage="post13" alt=""/>
+      <caption webpage="post19" alt=""/>
+      <caption webpage="post7" alt=""/>
+      <caption webpage="post8" alt=""/>
+      <caption webpage="post11" alt=""/>
+      <caption webpage="post18" alt=""/>
+      <caption webpage="post6" alt=""/>
+      <caption webpage="post21" alt=""/>
+      <caption webpage="post12" alt=""/>
+      <caption webpage="post4" alt=""/>
+      <caption webpage="post22" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="post2" alt=""/>
+      <caption webpage="post24" alt=""/>
+      <caption webpage="post1" alt=""/>
+      <caption webpage="post16" alt=""/>
+      <caption webpage="post20" alt=""/>
+      <caption webpage="post15" alt=""/>
+      <caption webpage="post10" alt=""/>
+      <caption webpage="post5" alt=""/>
+      <caption webpage="post23" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="galaxy-png-picture.png" crc="196473240" seo="true" ref="index">
@@ -112,31 +112,40 @@
     <file name="pasted image 300x168.jpg" crc="140030336" seo="true" ref="post5">
       <caption webpage="post5" alt=""/>
     </file>
+    <file name="pasted image 600x378.jpg" crc="25155088" seo="true" ref="post6">
+      <caption webpage="post6" alt=""/>
+    </file>
+    <file name="pasted image 940x530.jpg" crc="379183251" seo="true" ref="post6">
+      <caption webpage="post6" alt=""/>
+    </file>
+    <file name="pasted image 1200x575.jpg" crc="3874882174" seo="true" ref="post7">
+      <caption webpage="post7" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="180981662" seo="true" mt="1541513670584" redirect="true"/>
-  <file name="posts.html" crc="3973470186" seo="true" mt="1541512275155" redirect="true"/>
-  <file name="post1.html" crc="4180960970" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post2.html" crc="162744709" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post3.html" crc="328043217" seo="true" mt="1540997582993" redirect="true"/>
-  <file name="post4.html" crc="4195616151" seo="true" mt="1541087920057" redirect="true"/>
-  <file name="post5.html" crc="526166947" seo="true" mt="1541511441156" redirect="true"/>
-  <file name="post6.html" crc="4162713017" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post7.html" crc="520267022" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post8.html" crc="4284517047" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post9.html" crc="411032064" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post10.html" crc="4073667812" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post11.html" crc="4208652469" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post12.html" crc="3806635078" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post13.html" crc="3941689367" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post14.html" crc="166267873" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post15.html" crc="33343408" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post16.html" crc="432182083" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post17.html" crc="299327250" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post18.html" crc="75715310" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post19.html" crc="211197631" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post20.html" crc="4100170006" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post21.html" crc="4235619655" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post22.html" crc="3829938612" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post23.html" crc="3965580773" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post24.html" crc="256218643" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="index.html" crc="4008932264" seo="true" mt="1541513670584" redirect="true"/>
+  <file name="posts.html" crc="392023632" seo="true" mt="1541512275155" redirect="true"/>
+  <file name="post1.html" crc="410709573" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post2.html" crc="3805595899" seo="true" mt="1541694673591" redirect="true"/>
+  <file name="post3.html" crc="531812696" seo="true" mt="1541694652092" redirect="true"/>
+  <file name="post4.html" crc="3939770631" seo="true" mt="1541694629423" redirect="true"/>
+  <file name="post5.html" crc="528429601" seo="true" mt="1541511441156" redirect="true"/>
+  <file name="post6.html" crc="4073055532" seo="true" mt="1541694605548" redirect="true"/>
+  <file name="post7.html" crc="3821278691" seo="true" mt="1541694584350" redirect="true"/>
+  <file name="post8.html" crc="500806510" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post9.html" crc="419124697" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post10.html" crc="4097573665" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post11.html" crc="4098249921" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post12.html" crc="4106792161" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post13.html" crc="4105370369" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post14.html" crc="4124400801" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post15.html" crc="4121889601" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post16.html" crc="4112642913" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post17.html" crc="4116423809" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post18.html" crc="4159618081" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post19.html" crc="4153732033" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post20.html" crc="257076497" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post21.html" crc="254343921" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post22.html" crc="262537937" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post23.html" crc="266097969" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="post24.html" crc="247198353" seo="true" mt="1540560676961" redirect="true"/>
 </manifest>
