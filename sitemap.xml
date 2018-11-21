@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://huyxd.github.io/post1.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>http://huyxd.github.io/post2.html</loc>
-    <lastmod>2018-11-08</lastmod>
+    <lastmod>2018-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,20 +122,26 @@
   </url>
   <url>
     <loc>http://huyxd.github.io/post8.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%202880x1620.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://huyxd.github.io/post9.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20760x380.jpg</image:loc>
     </image:image>
   </url>
   <url>
