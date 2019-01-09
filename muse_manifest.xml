@@ -1,178 +1,131 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1543800390886">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyxd.github.io" resolutions="1x" timestamp="1547054202306">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="359696331" ref="post5:post18:post6:post19:post7:post20:post8:post21:post9:post22:post10:post23:post11:post24:post12:posts:post13:post1:post14:post2:post15:post3:post16:post4:post17"/>
-    <file name="post5.css" crc="3822548928" ref="post5"/>
-    <file name="post18.css" crc="518298646" ref="post18"/>
-    <file name="index.css" crc="3995635981" ref="index"/>
-    <file name="post6.css" crc="3814073302" ref="post6"/>
-    <file name="post19.css" crc="518298646" ref="post19"/>
-    <file name="post7.css" crc="4256618779" ref="post7"/>
-    <file name="post20.css" crc="518298646" ref="post20"/>
-    <file name="post8.css" crc="3959813892" ref="post8"/>
-    <file name="post21.css" crc="518298646" ref="post21"/>
-    <file name="post9.css" crc="39166011" ref="post9"/>
-    <file name="post22.css" crc="518298646" ref="post22"/>
-    <file name="post10.css" crc="3783791897" ref="post10"/>
-    <file name="post23.css" crc="518298646" ref="post23"/>
-    <file name="post11.css" crc="3972569522" ref="post11"/>
-    <file name="post24.css" crc="518298646" ref="post24"/>
-    <file name="post12.css" crc="4137399979" ref="post12"/>
-    <file name="posts.css" crc="4004522705" ref="posts"/>
-    <file name="post13.css" crc="518298646" ref="post13"/>
-    <file name="post1.css" crc="326349661" ref="post1"/>
-    <file name="post14.css" crc="518298646" ref="post14"/>
-    <file name="post2.css" crc="58321187" ref="post2"/>
-    <file name="post15.css" crc="518298646" ref="post15"/>
-    <file name="post3.css" crc="480954675" ref="post3"/>
-    <file name="post16.css" crc="518298646" ref="post16"/>
-    <file name="post4.css" crc="3873147775" ref="post4"/>
-    <file name="post17.css" crc="518298646" ref="post17"/>
+    <file name="master_a-master.css" crc="4013764328" ref="instructions:optionsbase:facts:factsfix:index:basics:basicfix:gettingstarted"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="instructions:optionsbase:facts:factsfix:index:basics:basicfix:gettingstarted"/>
+    <file name="instructions.css" crc="396043919" ref="instructions"/>
+    <file name="optionsbase.css" crc="273091082" ref="optionsbase"/>
+    <file name="facts.css" crc="199732780" ref="facts"/>
+    <file name="nomq_facts.css" crc="4185379855" ref="facts"/>
+    <file name="factsfix.css" crc="3989200523" ref="factsfix"/>
+    <file name="index.css" crc="4010996366" ref="index"/>
+    <file name="basics.css" crc="322785841" ref="basics"/>
+    <file name="nomq_basics.css" crc="107221419" ref="basics"/>
+    <file name="basicfix.css" crc="4170860583" ref="basicfix"/>
+    <file name="gettingstarted.css" crc="374393364" ref="gettingstarted"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
-    <file name="museutils.js" crc="340535759" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
-    <file name="whatinput.js" crc="86476730" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
-    <file name="museconfig.js" crc="310584261" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
-    <file name="require.js" crc="7928878" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:optionsbase:gettingstarted:basics:facts:basicfix:factsfix:instructions"/>
+    <file name="museutils.js" crc="340535759" ref="index:optionsbase:gettingstarted:basics:facts:basicfix:factsfix:instructions"/>
+    <file name="whatinput.js" crc="86476730" ref="index:optionsbase:gettingstarted:basics:facts:basicfix:factsfix:instructions"/>
+    <file name="museconfig.js" crc="310584261" ref="index:optionsbase:gettingstarted:basics:facts:basicfix:factsfix:instructions"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:optionsbase:gettingstarted:basics:facts:basicfix:factsfix:instructions"/>
+    <file name="require.js" crc="7928878" ref="index:optionsbase:gettingstarted:basics:facts:basicfix:factsfix:instructions"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="basics:facts"/>
   </folder>
   <folder name="images">
-    <file name="dot-u665-fr.png" crc="61275030" ref="index"/>
-    <file name="neil_degrasse_tyson_in_space-590x332.jpg" crc="142436181" seo="true" ref="index:posts:post1:post2:post3:post4:post5:post6:post7:post8:post9:post10:post11:post12:post13:post14:post15:post16:post17:post18:post19:post20:post21:post22:post23:post24">
-      <caption webpage="post8" alt=""/>
-      <caption webpage="post5" alt=""/>
-      <caption webpage="posts" alt=""/>
-      <caption webpage="posts" alt=""/>
-      <caption webpage="post1" alt=""/>
-      <caption webpage="post4" alt=""/>
-      <caption webpage="post6" alt=""/>
-      <caption webpage="post11" alt=""/>
-      <caption webpage="post17" alt=""/>
-      <caption webpage="post14" alt=""/>
-      <caption webpage="post19" alt=""/>
-      <caption webpage="post12" alt=""/>
-      <caption webpage="post20" alt=""/>
-      <caption webpage="post18" alt=""/>
-      <caption webpage="post7" alt=""/>
-      <caption webpage="post24" alt=""/>
-      <caption webpage="post16" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:gettingstarted:basics:facts:instructions"/>
+    <file name="u97-4.png" crc="355198051" ref="index:optionsbase:gettingstarted:basics:facts:basicfix:factsfix:instructions"/>
+    <file name="u110-4.png" crc="4076134043" ref="index"/>
+    <file name="pasted image 300x225.jpg" crc="4079597311" seo="true" ref="index:basicfix">
       <caption webpage="index" alt=""/>
-      <caption webpage="post15" alt=""/>
-      <caption webpage="post10" alt=""/>
-      <caption webpage="post22" alt=""/>
-      <caption webpage="post21" alt=""/>
-      <caption webpage="post9" alt=""/>
-      <caption webpage="post2" alt=""/>
-      <caption webpage="post3" alt=""/>
-      <caption webpage="post23" alt=""/>
-      <caption webpage="post13" alt=""/>
+      <caption webpage="basicfix" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="galaxy-png-picture.png" crc="196473240" seo="true" ref="index">
+    <file name="pasted image 770x400.jpg" crc="422538458" seo="true" ref="index:basicfix">
+      <caption webpage="index" alt=""/>
+      <caption webpage="basicfix" alt=""/>
+    </file>
+    <file name="pasted image 800x470.jpg" crc="259985316" seo="true" ref="index:basicfix">
+      <caption webpage="index" alt=""/>
+      <caption webpage="basicfix" alt=""/>
+    </file>
+    <file name="pasted image 1457x773.jpg" crc="49638420" seo="true" ref="index:basicfix">
+      <caption webpage="index" alt=""/>
+      <caption webpage="basicfix" alt=""/>
+    </file>
+    <file name="pasted image 1427x560.jpg" crc="410321343" seo="true" ref="index:basicfix">
+      <caption webpage="index" alt=""/>
+      <caption webpage="basicfix" alt=""/>
+    </file>
+    <file name="pasted image 3456x2304264x177.jpg" crc="112701312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon1.png" crc="423662884" seo="true" ref="index">
+    <file name="pasted image 852x480351x198.jpg" crc="512553408" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="arr.png" crc="327386100" ref="index">
+    <file name="pasted image 1280x720253x143.jpg" crc="4258123810" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kappa.png" crc="3925485083" ref="index">
+    <file name="pasted image 700x467272x182.jpg" crc="195895993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 720x405.jpg" crc="4172942410" seo="true" ref="post1">
-      <caption webpage="post1" alt=""/>
+    <file name="pasted image 3500x2403256x176.jpg" crc="487534551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 493x500.jpg" crc="4082763425" seo="true" ref="post1">
-      <caption webpage="post1" alt=""/>
+    <file name="pasted image 600x563254x239.jpg" crc="4029192637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1200x765.jpg" crc="458273714" seo="true" ref="post2">
-      <caption webpage="post2" alt=""/>
+    <file name="pasted image 4283x2857262x175.jpg" crc="4188158256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 770x437.jpg" crc="4002142216" seo="true" ref="post3">
-      <caption webpage="post3" alt=""/>
+    <file name="pasted image 3481x2896272x226.jpg" crc="3997804933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1920x640.jpg" crc="4190452653" seo="true" ref="post3">
-      <caption webpage="post3" alt=""/>
+    <file name="u268-4.png" crc="4020220837" ref="gettingstarted"/>
+    <file name="u391-4.png" crc="3930651073" ref="basics"/>
+    <file name="pasted image 3456x2304472x315.jpg" crc="342142720" seo="true" ref="basics">
+      <caption webpage="basics" alt=""/>
     </file>
-    <file name="pasted image 660x374.jpg" crc="4178584758" seo="true" ref="post4">
-      <caption webpage="post4" alt=""/>
+    <file name="pasted image 852x480.jpg" crc="3801439969" seo="true" ref="basics">
+      <caption webpage="basics" alt=""/>
     </file>
-    <file name="pasted image 653x432.jpg" crc="141337417" seo="true" ref="post5">
-      <caption webpage="post5" alt=""/>
+    <file name="u391-42.png" crc="4020220837" ref="basics"/>
+    <file name="pasted image 3456x2304.jpg" crc="4086757610" seo="true" ref="basics">
+      <caption webpage="basics" alt=""/>
     </file>
-    <file name="pasted image 300x168.jpg" crc="140030336" seo="true" ref="post5">
-      <caption webpage="post5" alt=""/>
+    <file name="u409-4.png" crc="3958420013" ref="facts"/>
+    <file name="pasted image 1280x720264x149.jpg" crc="4145382040" seo="true" ref="facts">
+      <caption webpage="facts" alt=""/>
     </file>
-    <file name="pasted image 600x378.jpg" crc="25155088" seo="true" ref="post6">
-      <caption webpage="post6" alt=""/>
+    <file name="pasted image 700x467.jpg" crc="430672903" seo="true" ref="facts">
+      <caption webpage="facts" alt=""/>
     </file>
-    <file name="pasted image 940x530.jpg" crc="379183251" seo="true" ref="post6">
-      <caption webpage="post6" alt=""/>
+    <file name="pasted image 3500x2403.jpg" crc="4290444415" seo="true" ref="facts">
+      <caption webpage="facts" alt=""/>
     </file>
-    <file name="pasted image 1200x575.jpg" crc="3874882174" seo="true" ref="post7">
-      <caption webpage="post7" alt=""/>
+    <file name="pasted image 600x563.jpg" crc="433291492" seo="true" ref="facts">
+      <caption webpage="facts" alt=""/>
     </file>
-    <file name="pasted image 2880x1620.jpg" crc="3964211853" seo="true" ref="post8">
-      <caption webpage="post8" alt=""/>
+    <file name="pasted image 4283x2857.jpg" crc="340003409" seo="true" ref="facts">
+      <caption webpage="facts" alt=""/>
     </file>
-    <file name="pasted image 760x380.jpg" crc="3760950844" seo="true" ref="post9">
-      <caption webpage="post9" alt=""/>
+    <file name="pasted image 3481x2896.jpg" crc="62977872" seo="true" ref="facts">
+      <caption webpage="facts" alt=""/>
     </file>
-    <file name="pasted image 220x309.jpg" crc="248129965" seo="true" ref="post11">
-      <caption webpage="post11" alt=""/>
+    <file name="u409-42.png" crc="4020220837" ref="facts"/>
+    <file name="pasted image 1280x720.jpg" crc="3815395066" seo="true" ref="facts">
+      <caption webpage="facts" alt=""/>
     </file>
-    <file name="pasted image 700x700.jpg" crc="53752895" seo="true" ref="post11">
-      <caption webpage="post11" alt=""/>
+    <file name="u690-4.png" crc="4020220837" ref="basicfix"/>
+    <file name="pasted image 1200x630.jpg" crc="496031829" seo="true" ref="basicfix">
+      <caption webpage="basicfix" alt=""/>
     </file>
-    <file name="pasted image 900x1200.jpg" crc="266273892" seo="true" ref="post11">
-      <caption webpage="post11" alt=""/>
+    <file name="pasted image 1600x900.jpg" crc="4167264626" seo="true" ref="basicfix">
+      <caption webpage="basicfix" alt=""/>
     </file>
-    <file name="pasted image 285x160.jpg" crc="4264484964" seo="true" ref="post12">
-      <caption webpage="post12" alt=""/>
+    <file name="pasted image 1024x440.jpg" crc="3780534672" seo="true" ref="basicfix">
+      <caption webpage="basicfix" alt=""/>
     </file>
-    <file name="pasted image 618x410.jpg" crc="4212861362" seo="true" ref="post12">
-      <caption webpage="post12" alt=""/>
-    </file>
-    <file name="pasted image 2125x1416.jpg" crc="358466498" seo="true" ref="post12">
-      <caption webpage="post12" alt=""/>
-    </file>
-    <file name="pasted image 1920x1200.jpg" crc="391209577" seo="true" ref="post12">
-      <caption webpage="post12" alt=""/>
-    </file>
+    <file name="u809-4.png" crc="4020220837" ref="factsfix"/>
+    <file name="u373-4.png" crc="231604346" ref="instructions"/>
+    <file name="u380-4.png" crc="135596230" ref="instructions"/>
   </folder>
-  <file name="index.html" crc="302256990" seo="true" mt="1542764710659" redirect="true"/>
-  <file name="posts.html" crc="467585780" seo="true" mt="1541512275155" redirect="true"/>
-  <file name="post1.html" crc="65439762" seo="true" mt="1542764319943" redirect="true"/>
-  <file name="post2.html" crc="395122238" seo="true" mt="1542764332309" redirect="true"/>
-  <file name="post3.html" crc="4154615974" seo="true" mt="1541694652092" redirect="true"/>
-  <file name="post4.html" crc="407449479" seo="true" mt="1541694629423" redirect="true"/>
-  <file name="post5.html" crc="4120414429" seo="true" mt="1541511441156" redirect="true"/>
-  <file name="post6.html" crc="342022826" seo="true" mt="1541694605548" redirect="true"/>
-  <file name="post7.html" crc="4205666281" seo="true" mt="1543799392268" redirect="true"/>
-  <file name="post8.html" crc="4053913234" seo="true" mt="1542764221746" redirect="true"/>
-  <file name="post9.html" crc="4206246814" seo="true" mt="1542764173754" redirect="true"/>
-  <file name="post10.html" crc="155403572" seo="true" mt="1543799346635" redirect="true"/>
-  <file name="post11.html" crc="4093911522" seo="true" mt="1543800012078" redirect="true"/>
-  <file name="post12.html" crc="304533653" seo="true" mt="1543800330723" redirect="true"/>
-  <file name="post13.html" crc="387556567" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post14.html" crc="377357175" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post15.html" crc="369382551" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post16.html" crc="378186935" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post17.html" crc="384891735" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post18.html" crc="340124663" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post19.html" crc="339719191" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post20.html" crc="3975803591" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post21.html" crc="3968050471" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post22.html" crc="3960298759" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post23.html" crc="3967224551" seo="true" mt="1540560676961" redirect="true"/>
-  <file name="post24.html" crc="3977293127" seo="true" mt="1540560676961" redirect="true"/>
+  <file name="index.html" crc="4293210386" seo="true" mt="1546975132409" redirect="true"/>
+  <file name="optionsbase.html" crc="4072433530" seo="true" mt="1546884363891" redirect="true"/>
+  <file name="gettingstarted.html" crc="137305018" seo="true" mt="1546975003472" redirect="true"/>
+  <file name="basics.html" crc="3947426669" seo="true" mt="1546884363891" redirect="true"/>
+  <file name="facts.html" crc="3826582102" seo="true" mt="1546884363891" redirect="true"/>
+  <file name="basicfix.html" crc="4229019811" seo="true" mt="1546974178803" redirect="true"/>
+  <file name="factsfix.html" crc="485252848" seo="true" mt="1546974971523" redirect="true"/>
+  <file name="instructions.html" crc="3892247498" seo="true" mt="1546884363891" redirect="true"/>
 </manifest>

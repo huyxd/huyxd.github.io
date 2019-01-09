@@ -2,302 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://huyxd.github.io/index.html</loc>
-    <lastmod>2018-11-20</lastmod>
+    <lastmod>2019-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20300x225.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/galaxy-png-picture.png</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20770x400.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/icon1.png</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20800x470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201457x773.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201427x560.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%203456x2304264x177.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20852x480351x198.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201280x720253x143.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20700x467272x182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%203500x2403256x176.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20600x563254x239.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%204283x2857262x175.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%203481x2896272x226.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://huyxd.github.io/posts.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <loc>http://huyxd.github.io/optionsbase.html</loc>
+    <lastmod>2019-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://huyxd.github.io/gettingstarted.html</loc>
+    <lastmod>2019-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://huyxd.github.io/basics.html</loc>
+    <lastmod>2019-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%203456x2304472x315.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20852x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%203456x2304.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://huyxd.github.io/post1.html</loc>
-    <lastmod>2018-11-20</lastmod>
+    <loc>http://huyxd.github.io/facts.html</loc>
+    <lastmod>2019-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201280x720264x149.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20720x405.jpg</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20700x467.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20493x500.jpg</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%203500x2403.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20600x563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%204283x2857.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%203481x2896.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201280x720.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://huyxd.github.io/post2.html</loc>
-    <lastmod>2018-11-20</lastmod>
+    <loc>http://huyxd.github.io/basicfix.html</loc>
+    <lastmod>2019-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20300x225.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%201200x765.jpg</image:loc>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20770x400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%20800x470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201457x773.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201427x560.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201200x630.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201600x900.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huyxd.github.io/images/pasted%20image%201024x440.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://huyxd.github.io/post3.html</loc>
-    <lastmod>2018-11-08</lastmod>
+    <loc>http://huyxd.github.io/factsfix.html</loc>
+    <lastmod>2019-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20770x437.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%201920x640.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://huyxd.github.io/post4.html</loc>
-    <lastmod>2018-11-08</lastmod>
+    <loc>http://huyxd.github.io/instructions.html</loc>
+    <lastmod>2019-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20660x374.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post5.html</loc>
-    <lastmod>2018-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20653x432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20300x168.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post6.html</loc>
-    <lastmod>2018-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20600x378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20940x530.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post7.html</loc>
-    <lastmod>2018-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%201200x575.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post8.html</loc>
-    <lastmod>2018-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%202880x1620.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post9.html</loc>
-    <lastmod>2018-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20760x380.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post10.html</loc>
-    <lastmod>2018-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post11.html</loc>
-    <lastmod>2018-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20220x309.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20700x700.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20900x1200.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post12.html</loc>
-    <lastmod>2018-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20285x160.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%20618x410.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%202125x1416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/pasted%20image%201920x1200.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post13.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post14.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post15.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post16.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post17.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post18.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post19.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post20.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post21.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post22.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post23.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://huyxd.github.io/post24.html</loc>
-    <lastmod>2018-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://huyxd.github.io/images/neil_degrasse_tyson_in_space-590x332.jpg</image:loc>
-    </image:image>
   </url>
 </urlset>
